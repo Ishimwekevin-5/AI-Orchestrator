@@ -1,0 +1,5 @@
+{
+  "name": "AI Orchestrator - Multi-Agent Simulation",
+  "description": "A high-performance personal AI agent system that decomposes complex user goals into subtasks, recruits specialized sub-agents, and orchestrates parallel execution for seamless task management.",
+  "requestFramePermissions": []
+}
